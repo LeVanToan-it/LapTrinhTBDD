@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo_Project</string>
+    <string name="grow_your">GROW YOUR BUSINESS</string>
+    <string name="we_will_help_you">We will help you grow your business using online serve</string>
+    <string name="avatar">avatar</string>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign Up</string>
+</resources>
