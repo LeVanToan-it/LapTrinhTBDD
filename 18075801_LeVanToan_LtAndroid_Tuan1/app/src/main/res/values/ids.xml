@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView12" type="id">textView12</item>
+    <item name="editTextTextPersonName3" type="id">editTextTextPersonName3</item>
+    <item name="editTextTextPersonName8" type="id">editTextTextPersonName8</item>
+    <item name="editTextTextPersonName6" type="id">editTextTextPersonName6</item>
+    <item name="editTextTextPersonName4" type="id">editTextTextPersonName4</item>
+    <item name="editTextTextPersonName5" type="id">editTextTextPersonName5</item>
+    <item name="radioButton3" type="id">radioButton3</item>
+    <item name="radioButton4" type="id">radioButton4</item>
+    <item name="radioGroup" type="id">radioGroup</item>
+    <item name="button6" type="id">button6</item>
+    <item name="textView14" type="id">textView14</item>
+</resources>

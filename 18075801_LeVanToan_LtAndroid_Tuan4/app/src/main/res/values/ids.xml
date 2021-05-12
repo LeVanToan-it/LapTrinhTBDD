@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView20" type="id">textView20</item>
+    <item name="textView10" type="id">textView10</item>
+    <item name="textView19" type="id">textView19</item>
+    <item name="imgBtnPlus" type="id">imgBtnPlus</item>
+    <item name="txtDonGia" type="id">txtDonGia</item>
+    <item name="textView13" type="id">textView13</item>
+    <item name="textView12" type="id">textView12</item>
+    <item name="imageView5" type="id">imageView5</item>
+    <item name="imgBtnSub" type="id">imgBtnSub</item>
+    <item name="textView17" type="id">textView17</item>
+    <item name="quantityProduct" type="id">quantityProduct</item>
+    <item name="editTextTextPersonName" type="id">editTextTextPersonName</item>
+    <item name="button2" type="id">button2</item>
+    <item name="txtTamTinh" type="id">txtTamTinh</item>
+</resources>
